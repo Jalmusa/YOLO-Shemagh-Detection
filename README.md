@@ -32,10 +32,6 @@ The project successfully trained an object detection model capable of identifyin
 * Evaluating object detection performance.
 * Working with real-world image datasets.
 
-## Notebook
-
-📓 Google Colab Notebook: 
-(https://colab.research.google.com/drive/1jEGKafx0QeJtrtsNO0qACzaKzP9wepNX?usp=sharing)
 ## Acknowledgment
 
 This project was completed as part of the DAL Shemagh Object Detection Challenge and served as a valuable hands-on experience in computer vision and deep learning.
